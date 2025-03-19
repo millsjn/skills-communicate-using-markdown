@@ -23,3 +23,13 @@ var myVar = "Hello, world!";
 Note that the var is red because it has meaning in javascript.
 
 What I haven't figured out is how it works with other languages. E.g., stata or r
+
+# adding task list
+
+- [ ] Turn on GitHuub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+note: these won't work. [] without space. [ ] without the bullet
+how about this? - [ ] attempt to put it into a line.
